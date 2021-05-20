@@ -17,7 +17,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
         <li><a href="#built-with">Built With</a>
-        </li>
+        </li><a href="#Key Features">Built With</a>
       </ul>
     </li>
     <li><a href="#screenshots">Screenshots</a></li>
@@ -29,7 +29,7 @@
 # About The Project
   <p align = "center">
     <p>
-    This is a test comprising of 5 MCQs.Each question has one or more than one correct answer.Marking scheme is +3 for correct answer and -1 for incorrect answer.Candidate's score is displayed on the screen immediately after the exam along with information about questions answered correctly and incorrectly.
+    This is a MCQ test comprising of 5 questions on Python Language.
     </br>
     <b>Note: </b> This repository is for the purpose of Python Mini Project (SY - B.Tech Electronics, VJTI, Mumbai)
     </p>
@@ -42,6 +42,18 @@
 
 <li>Python
 <li>Tkinter
+    
+ ## Key Features
+ 
+ <li>1)Sign In:
+    Candidates will have to enter their registration ID to make sure that only registered candidates appearr for the exam.
+<li>2)Negative Marking Scheme:
+    Candidates will be awarded +3 for correct answer and -1 for incorrect answer.
+<li>3)Immediate Display of Result:
+    Candidate's score will be displayed on the screen immediately after they end up answering all the questions.Along with their scores,information about number of questions answered correctly and incorrectly will also be displayed.
+    
+    
+    
 
 
 
