@@ -16,10 +16,8 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-        <li><a href="#built-with">Built With</a>
-        </li><a href="#Key Features">Built With</a>
-      </ul>
-    </li>
+      <li><a href="#built-with">Built With</a>
+    <li><a href="#Key Features">Key Features</a>
     <li><a href="#screenshots">Screenshots</a></li>
     </ol>
 </details>
